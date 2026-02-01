@@ -47,7 +47,9 @@ function App() {
             alt="Success"
             className="cat-img"
           />
-          <h1 className="success-text">Hehe, I knew it! ❤️</h1>
+          <h1 className="success-text" style={{ color: "red" }}>
+            Hehe, I knew it! ❤️
+          </h1>
         </div>
       </div>
     );
